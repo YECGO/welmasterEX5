@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Certificates enablewhitelist="0">
+	<Certificate name="HU-SYS">6E:8C:9E:89:58:71:8F:28:37:05:B0:28:23:FE:28:83:C8:D3:7C:82</Certificate>
+	<Certificate name="HU-CONTACTS">12:5F:43:68:08:CC:E3:11:AB:8A:FD:1F:04:72:CF:C3:2C:B3:2D:3E</Certificate>
+   	<Certificate name="HU-MEDIA">75:9F:0F:7A:FE:D8:74:3A:49:0F:0E:E9:EA:10:F8:FB:E7:E3:C0:49</Certificate>
+   	<Certificate name="HU-WEBVIEW">83:85:DD:52:A5:62:99:25:38:3C:7C:53:67:E4:BB:D4:FB:F7:F5:34</Certificate>
+   	 
+</Certificates>
